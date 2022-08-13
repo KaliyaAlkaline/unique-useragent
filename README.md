@@ -16,7 +16,8 @@ Requirments:
 
 Steps:
 1. Open your prompt and navigate to the folder (on Windows this would be "cd User-Agent Generator")
-2. Type "npm i -g electron-builder"
-3. Type "electron-builder -w" (-w for Windows, -l for Linux, and -m for Mac)
-4. After the building process is complete, navigate to the new folder "dist" and open the setup application
-5. Once the application is done being set up, you can delete the folder and use the application. There should be a shortcut automatically generated
+2. Type "npm i electron@19.0.6"
+3. Type "npm i -g electron-builder"
+4. Type "electron-builder -w" (-w for Windows, -l for Linux, and -m for Mac)
+5. After the building process is complete, navigate to the new folder "dist" and open the setup application
+6. Once the application is done being set up, you can delete the folder and use the application. There should be a shortcut automatically generated

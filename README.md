@@ -19,4 +19,4 @@ Steps:
 2. Type "npm i -g electron-builder"
 3. Type "electron-builder -w" (-w for Windows, -l for Linux, and -m for Mac)
 4. After the building process is complete, navigate to the new folder "dist" and open the setup application
-5. Once the application is done being set up, you can delete the folder and use the application
+5. Once the application is done being set up, you can delete the folder and use the application. There should be a shortcut automatically generated
